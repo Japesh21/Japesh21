@@ -108,7 +108,9 @@ My focus is on **AI/ML, Computer Vision, and Full-Stack Development** — buildi
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/Japesh21/Japesh21/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/Japesh21/Japesh21/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Japesh21/Japesh21/output/github-contribution-grid-snake-dark.svg"/>
