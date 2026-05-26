@@ -97,20 +97,25 @@ My focus is on **AI/ML, Computer Vision, and Full-Stack Development** — buildi
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Japesh21&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Japesh21&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="165"/>
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Japesh21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Japesh21&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Japesh21&theme=transparent&hide_border=true" height="165"/>
+
+  <img height="165" src="https://streak-stats.demolab.com?user=Japesh21&theme=tokyonight&hide_border=true"/>
+
   <br/>
+
   <img src="https://github-profile-trophy.vercel.app/?username=Japesh21&theme=tokyonight&no-frame=true&row=1&column=7" />
+
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Japesh21/Japesh21/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Japesh21/Japesh21/output/github-contribution-grid-snake-dark.svg"/>
